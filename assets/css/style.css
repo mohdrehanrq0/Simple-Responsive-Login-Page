@@ -30,6 +30,9 @@ a:hover {
 
 .login-panel-title {
   color: #fff;
+  font-size:25px;
+  letter-spacing:1px;
+  margin-bottom:15px;
   font-weight: 600;
   margin: 0 0 5px 0;
 }
